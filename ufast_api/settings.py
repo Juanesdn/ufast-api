@@ -26,7 +26,7 @@ SECRET_KEY = '^zif3-y0$#k+4s0-#3uyi^(!gnn=5wd-13e3o&6oh_2btgcjy^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ufast-api.herokuapp.com']
 
 
 # Application definition
