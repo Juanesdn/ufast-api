@@ -10,6 +10,7 @@ django = "*"
 requests = "*"
 djangorestframework = "*"
 "pep8" = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.6"
